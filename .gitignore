@@ -1,0 +1,7 @@
+# Agent tooling installed locally (Mintlify skills via `npx skills add`)
+.agents/
+.claude/
+skills-lock.json
+
+.DS_Store
+node_modules/
